@@ -12,7 +12,7 @@ This Power BI project visualizes and analyzes sales data for an e-commerce platf
 📁 Files Included
 - E-Commerce-Sales-Dashboard.pbix – Main Power BI file
 - Dashboard-Overview.png – Screenshot of the dashboard
-- Sample-Data.csv – Dataset used for building the dashboard
+- Sample-Data.xlsx – Dataset used for building the dashboard
 
 🚀 Getting Started
 To explore the dashboard:
